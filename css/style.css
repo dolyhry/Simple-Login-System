@@ -1,0 +1,10 @@
+::placeholder{
+    color: white !important;
+}
+p span:hover{
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+nav.div{
+    vertical-align: middle !important;
+}   
